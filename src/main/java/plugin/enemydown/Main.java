@@ -4,7 +4,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 import plugin.enemydown.command.EnemyDownCommand;
 
-public final class main extends JavaPlugin {
+public final class Main extends JavaPlugin {
 
   @Override
   public void onEnable() {
